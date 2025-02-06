@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Computer Science Ph.D. student at Rutgers University, New Brunswick. I'm currently exploring several research directions, including LLM alignment/reasoning/generalization, Efficient AI, and 3D/image/video/multimodal generation.
+
 <!--
 **jincan333/jincan333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
