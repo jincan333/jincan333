@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Computer Science Ph.D. student at Rutgers University, New Brunswick. I'm currently exploring several research directions, including LLM alignment/reasoning/generalization, Efficient AI, and 3D/image/video/multimodal generation.
+I am a Ph.D. Candidate in Computer Science at [Rutgers University](https://www.cs.rutgers.edu/), New Brunswick, advised by Professor [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). My research interests include **Pre-training/Post-training/Inference of Large Foundation Models**, **Efficient AI**, and **AI Agents**.
 
 <!--
 **jincan333/jincan333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
