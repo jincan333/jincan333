@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Ph.D. Candidate in Computer Science at [Rutgers University](https://www.cs.rutgers.edu/), New Brunswick, advised by Professor [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). My research interests include **Pre-training/Post-training/Inference of Large Foundation Models**, **Efficient AI**, and **AI Agents**.
+I am a Ph.D. Candidate in Computer Science at [Rutgers University](https://www.cs.rutgers.edu/), New Brunswick, advised by Professor [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). My research interests include **Pre-training/Post-training/Inference of Foundation Models**, with a focus on **Efficiency** and **Reasoning/Coding Capabilities**.
 
 <!--
 **jincan333/jincan333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
